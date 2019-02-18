@@ -2,7 +2,7 @@
 % By Adam Bartlett
 % ID: a1646071
 
-%% Clear Workspace
+%% Clear Workspace 
 clear all
 close all
 clc
